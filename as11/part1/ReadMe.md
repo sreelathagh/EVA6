@@ -41,7 +41,7 @@ Downloaded the source, weights and config files from [here](https://pysource.com
 <p align="center">
   <img width="300" height="200" src="./images/S_Click1.jpg">
   <img width="300" height="200" src="./images/A_Click1.jpeg">
-  <img width="300" height="200" src="./images/A_Click1.jpeg">
+  <img width="300" height="200" src="./images/A_Click2.jpeg">
 </p>
 
 ## Ojects predicted:
