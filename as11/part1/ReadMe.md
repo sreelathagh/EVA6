@@ -39,16 +39,16 @@ Downloaded the source, weights and config files from [here](https://pysource.com
 
 Input Images:
 <p align="center">
-  <img width="500" height="350" src="./images/S_Click1.jpg">
-  <img width="500" height="350" src="./images/A_Click1.jpeg">
-  <img width="500" height="350" src="./images/A_Click1.jpeg">
+  <img width="350" height="200" src="./images/S_Click1.jpg">
+  <img width="350" height="200" src="./images/A_Click1.jpeg">
+  <img width="350" height="200" src="./images/A_Click1.jpeg">
 </p>
 
 Ojects predicted:
 <p align="center">
-  <img width="500" height="350" src="./images/S_Click_conf0.5.png">
-  <img width="500" height="350" src="./images/A_Click1_conf0.5.png">
-  <img width="500" height="350" src="./images/A_Click2_conf0.5.png">
+  <img width="350" height="200" src="./images/S_Click_conf0.5.png">
+  <img width="350" height="200" src="./images/A_Click1_conf0.5.png">
+  <img width="350" height="200" src="./images/A_Click2_conf0.5.png">
 </p>
 
 
