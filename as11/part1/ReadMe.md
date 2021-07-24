@@ -35,7 +35,7 @@ PART-1 OpenCV Yolo: [SOURCE](https://pysource.com/2019/06/27/yolo-object-detecti
 5. Upload the annotated image by YOLO. 
 
 ## Method:
-Downloaded the source, weights and config files from [here] (https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/) and collected images with different objects to run on the code. The images captured are run for different confidence levels like 0.2, 0.5, 0.8 to observe the image predictions and the results [here]()
+Downloaded the source, weights and config files from [here](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/) and collected images with different objects to run on the code. The images captured are run for different confidence levels like 0.2, 0.5, 0.8 to observe the image predictions and the results [here]()
 
 Input Images:
 <p align="center">
