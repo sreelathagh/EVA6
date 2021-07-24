@@ -37,14 +37,14 @@ PART-1 OpenCV Yolo: [SOURCE](https://pysource.com/2019/06/27/yolo-object-detecti
 ## Method:
 Downloaded the source, weights and config files from [here](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/) and collected images with different objects to run on the code. The images captured are run for different confidence levels like 0.2, 0.5, 0.8 to observe the image predictions and the results [here]()
 
-Input Images:
+## Input Images:
 <p float="left">
-  <img width="350" height="200" src="./images/S_Click1.jpg">
-  <img width="350" height="200" src="./images/A_Click1.jpeg">
-  <img width="350" height="200" src="./images/A_Click1.jpeg">
+  <img width="300" height="200" src="./images/S_Click1.jpg">
+  <img width="300" height="200" src="./images/A_Click1.jpeg">
+  <img width="300" height="200" src="./images/A_Click1.jpeg">
 </p>
 
-Ojects predicted:
+## Ojects predicted:
 <p align="center">
   <img width="350" height="200" src="./images/S_Click_conf0.5.png">
   <img width="350" height="200" src="./images/A_Click1_conf0.5.png">
