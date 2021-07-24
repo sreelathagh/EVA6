@@ -44,12 +44,6 @@ Input Images:
   <img width="500" height="350" src="./images/A_Click1.jpeg">
 </p>
 
- <div class="row">
-  <div class="column">
-    <img src="./images/S_Click1.jpg" alt="Snow" style="width:100%">
-  </div>
-</div>      
-    
 Ojects predicted:
 <p align="center">
   <img width="500" height="350" src="./images/S_Click_conf0.5.png">
@@ -57,9 +51,5 @@ Ojects predicted:
   <img width="500" height="350" src="./images/A_Click2_conf0.5.png">
 </p>
 
- <div class="row">
-  <div class="column">
-    <img src="./images/S_Click_conf0.5.png" alt="Snow" style="width:100%">
-  </div>
-</div>   
+
     
