@@ -1,0 +1,1 @@
+Download the file named `yolov3-spp-ultralytics.pt` from [here](https://drive.google.com/drive/folders/1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0) and place in this current directory.
